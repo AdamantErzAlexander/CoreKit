@@ -1,0 +1,5 @@
+{
+    "yaml.schemas": {
+        "https://json.schemastore.org/pre-commit-config.json": "file:///g%3A/Activity/CODE/CoreKit/.pre-commit-config.yaml"
+    }
+}
